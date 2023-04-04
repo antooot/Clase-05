@@ -110,7 +110,7 @@
 <text transform="matrix(1 0 0 1 673.0078 814.5848)" class="st4 st5">medicina </text>
 <text transform="matrix(1 0 0 1 394.0161 627.3848)" class="st5 st27" >Uso medicinal</text>
 <rect x="110.5" y="38.5" class="st3" width="163.8" height="57.2"/>
-<text transform="matrix(1 0 0 1 110.5014 62.2147)" class="st4 st5">Tamaños varían de 30cm a 1m</text>
+<text transform="matrix(1 0 0 1 110.5014 62.2147)" class="st4 st5">Tamaõs varían de 30cm a 1m</text>
 <text transform="matrix(1 0 0 1 110.5014 81.4147)" class="st4 st5"> dependiendo de la especie</text>
 <text transform="matrix(1 0 0 1 815.6474 145.14)" class="st7 st5">Escama</text>
 <text transform="matrix(1 0 0 1 935.0121 345.2455)" class="st4 st5">Oido</text>
@@ -432,7 +432,7 @@
 	s-0.6,0.5-0.6,0.5l-0.7-0.2c0,0-0.1,0.5-0.5,0.7s-1.2,0.6-1.5,0.8c-0.4,0.2-0.8,0.4-0.8,0.4l-0.8-0.2L120.9,258.1z"/>
 <g>
 	<rect x="983.5" y="527.1" class="st3" width="193.4" height="75.6"/>
-	<text transform="matrix(1 0 0 1 983.5049 540.8216)"><tspan x="0" y="0" class="st4 st5">A pangolin’s tongue is </tspan><tspan x="0" y="19.2" class="st4 st5">attached near its pelvis and  </tspan><tspan x="0" y="38.4" class="st4 st5">last pair of ribs and is often  </tspan><tspan x="0" y="57.6" class="st4 st5">longer than its body</tspan></text>
+	<text transform="matrix(1 0 0 1 940.5049 540.8216)"><tspan x="0" y="0" class="st4 st5">La lengua del pangolín </tspan><tspan x="0" y="19.2" class="st4 st5">está sujeta cerca de la pelvis y </tspan><tspan x="0" y="38.4" class="st4 st5">de su último par de costillas, </tspan><tspan x="0" y="57.6" class="st4 st5">suele ser más larga que su cuerpo</tspan></text>
 </g>
 <circle class="st10" cx="1075.9" cy="490.9" r="10.8"/>
 <path class="st10" d="M914.3,412.1c17.3-7.7,32.9-44.8,30.9-61.8"/>
